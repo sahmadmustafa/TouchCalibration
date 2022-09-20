@@ -9,7 +9,6 @@
      }
   
  }
- // Helper
  //.layerMinXMinYCorner = Top left corner
  //.layerMaxXMinYCorner = Top right corner
  //.layerMinXMaxYCorner = Bottom left corner
