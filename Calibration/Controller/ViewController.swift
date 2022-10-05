@@ -44,10 +44,8 @@ class ViewController: UIViewController {
         }
     }
     
-//    override func touchesEnded(touches: Set<UITouch>, withEvent event: UIEvent?) {
-//        forceLabel.text = "0 gram"
-//    }
-//
+   
+
     override  func touchesEnded(_ touches: Set<UITouch>,
                  with event: UIEvent?)
     {
