@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 extension UIView{
-//fg
+
     func fourCornor(){
         self.clipsToBounds = true
         self.layer.cornerRadius = 5

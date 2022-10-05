@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PsW-2W-Ox8">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PsW-2W-Ox8">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -17,13 +17,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VW7-ss-CuH">
+                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VW7-ss-CuH">
                                 <rect key="frame" x="40" y="64" width="100" height="364"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="adl-Zy-Thn">
                                         <rect key="frame" x="0.0" y="64" width="100" height="100"/>
                                         <subviews>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lCh-mZ-IY5">
+                                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lCh-mZ-IY5">
                                                 <rect key="frame" x="30" y="30" width="40" height="40"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                 <userDefinedRuntimeAttributes>
@@ -33,7 +33,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </view>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemGreenColor"/>
+                                        <color key="backgroundColor" systemColor="systemRedColor"/>
                                         <constraints>
                                             <constraint firstItem="lCh-mZ-IY5" firstAttribute="centerX" secondItem="adl-Zy-Thn" secondAttribute="centerX" id="5qT-JH-9CY"/>
                                             <constraint firstItem="lCh-mZ-IY5" firstAttribute="leading" secondItem="adl-Zy-Thn" secondAttribute="leading" constant="30" id="Igv-GH-0uj"/>
@@ -55,7 +55,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xtc-5j-7dE">
                                         <rect key="frame" x="0.0" y="164" width="100" height="100"/>
                                         <subviews>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QkN-fj-qhu">
+                                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QkN-fj-qhu">
                                                 <rect key="frame" x="30" y="30" width="40" height="40"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                 <userDefinedRuntimeAttributes>
@@ -65,7 +65,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </view>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemPinkColor"/>
+                                        <color key="backgroundColor" systemColor="systemYellowColor"/>
                                         <constraints>
                                             <constraint firstItem="QkN-fj-qhu" firstAttribute="top" secondItem="xtc-5j-7dE" secondAttribute="top" constant="30" id="5Lm-U5-T8b"/>
                                             <constraint firstItem="QkN-fj-qhu" firstAttribute="centerY" secondItem="xtc-5j-7dE" secondAttribute="centerY" id="Tok-Fc-2Y6"/>
@@ -87,7 +87,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3SH-ED-h4F">
                                         <rect key="frame" x="0.0" y="264" width="100" height="100"/>
                                         <subviews>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="99x-IG-4ke">
+                                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="99x-IG-4ke">
                                                 <rect key="frame" x="30" y="30" width="40" height="40"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                 <userDefinedRuntimeAttributes>
@@ -144,6 +144,10 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="kaka" translatesAutoresizingMaskIntoConstraints="NO" id="Lsg-Xw-fdh">
+                                <rect key="frame" x="10" y="64" width="162" height="510"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kqp-6s-foH">
                                 <rect key="frame" x="180" y="270" width="214" height="415"/>
                                 <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
@@ -1439,6 +1443,7 @@
     <resources>
         <image name="bag" catalog="system" width="128" height="128"/>
         <image name="football-157930__480" width="240" height="240"/>
+        <image name="kaka" width="140" height="247.5"/>
         <image name="opticaldisc" catalog="system" width="128" height="121"/>
         <image name="pencil" catalog="system" width="128" height="113"/>
         <image name="pencil.circle" catalog="system" width="128" height="121"/>
@@ -1468,6 +1473,12 @@
         </systemColor>
         <systemColor name="systemPinkColor">
             <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemYellowColor">
+            <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
