@@ -9,3 +9,5 @@ The ball will move with force applied on the touch screen of Ios device
 
 Time Calibration on the Ball Demo 3D Touch
 ![timingSet](https://user-images.githubusercontent.com/25474407/193984697-1b98f46a-0908-4bf2-8aa9-907e8cb00cd0.gif)
+
+This s fantastic approach t calibrate for 3D Touch
