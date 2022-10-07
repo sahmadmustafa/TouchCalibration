@@ -1,6 +1,13 @@
 # TouchCalibration
 This app is a demo project that helps us to determine touch sensing on iPhone devices.This app is a fantastic demonstration that help us to determine how we can calibrate force touch or 3D touch.Its touch-sensitive screen includes a layer of capacitive material, just like many other touch-screens.
 
+These are the shots we tested on real devices:
+
+
+![Uploading VID-20221006-WA0001.gif…](![VID-20221006-WA0002](https://user-images.githubusercontent.com/25474407/194566384-82285ac8-abae-4822-a26f-60bca00678b4.gif)
+)
+
+
 
 Ball Demo
 The ball will move with force applied on the touch screen of Ios device
