@@ -1,3 +1,16 @@
+Apple introduced a screen technology called 3D Touch in September 2015, offering different interactive levels to standard glass screens.
+
+The technology recognises force as well as gestures, in order to offer more accurate haptic feedback, which in turn results in apps being more accessible thanks to variations in pressure offering previews, quick swiping and more.
+
+The 3D Touch technology isn't available on all iPhones however, as a different technology called Haptic Touch was developed for the iPhone XR and newer. This feature explains what features Apple's 3D Touch offers, how the technology works and what iPhones offer the technology.
+
+
+How does 3D Touch work and what Apple devices is it available on?
+Capacitive sensors are integrated into the back light of a compatible iPhone's Retina display. With pressure, microscopic changes between the cover glass and back light are measured, which combined with the touch sensor and accelerometer should provide accurate pressure response.
+
+
+
+
 # TouchCalibration
 This app is a demo project that helps us to determine touch sensing on iPhone devices.This app is a fantastic demonstration that help us to determine how we can calibrate force touch or 3D touch.Its touch-sensitive screen includes a layer of capacitive material, just like many other touch-screens.
 
