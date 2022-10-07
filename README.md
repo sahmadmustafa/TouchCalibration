@@ -2,10 +2,10 @@
 This app is a demo project that helps us to determine touch sensing on iPhone devices.This app is a fantastic demonstration that help us to determine how we can calibrate force touch or 3D touch.Its touch-sensitive screen includes a layer of capacitive material, just like many other touch-screens.
 
 These are the shots we tested on real devices:
+![VID-20221006-WA0001](https://user-images.githubusercontent.com/25474407/194567811-fa963e8f-21ae-4343-a563-861cb48c19c9.gif)
 
 
-![Uploading VID-20221006-WA0001.gif…](![VID-20221006-WA0002](https://user-images.githubusercontent.com/25474407/194566384-82285ac8-abae-4822-a26f-60bca00678b4.gif)
-)
+![VID-20221006-WA0002](https://user-images.githubusercontent.com/25474407/194567861-551a1e34-ad5b-4d21-bad9-ac5490d41d5b.gif)
 
 
 
