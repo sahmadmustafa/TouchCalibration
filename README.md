@@ -16,8 +16,9 @@ This app is a demo project that helps us to determine touch sensing on iPhone de
 
 These are the shots we tested on real devices:
 
-![194567861-551a1e34-ad5b-4d21-bad9-ac5490d41d5b](https://user-images.githubusercontent.com/25474407/206585408-4cf580c8-3781-437b-be02-9bd5f2e95b19.gif)
-![194567811-fa963e8f-21ae-4343-a563-861cb48c19c9](https://user-images.githubusercontent.com/25474407/206585427-46a9673c-69ab-4106-a0e5-dd6eeed0b5c6.gif)
+![194567861-551a1e34-ad5b-4d21-bad9-ac5490d41d5b](https://user-images.githubusercontent.com/25474407/206586000-66324c8c-7cef-4f83-a120-518ed074f50c.gif)
+![194567811-fa963e8f-21ae-4343-a563-861cb48c19c9](https://user-images.githubusercontent.com/25474407/206586048-e4881b6b-cbba-4ba7-8bf1-8e361727cf9e.gif)
+
 
 
 Ball Demo
