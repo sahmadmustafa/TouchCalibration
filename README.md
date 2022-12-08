@@ -22,10 +22,10 @@ These are the shots we tested on real devices:
 
 Ball Demo
 The ball will move with force applied on the touch screen of Ios device
-![Ball Gif](https://user-images.githubusercontent.com/25474407/193982961-2fbb2dc4-6f65-459e-98e1-34c4b855f1d5.gif)
+![193982961-2fbb2dc4-6f65-459e-98e1-34c4b855f1d5](https://user-images.githubusercontent.com/25474407/206585801-09765912-cd23-40c8-80c3-818df843ca36.gif)
 
 
 Time Calibration on the Ball Demo 3D Touch
-![timingSet](https://user-images.githubusercontent.com/25474407/193984697-1b98f46a-0908-4bf2-8aa9-907e8cb00cd0.gif)
+![Uploading 193984697-1b98f46a-0908-4bf2-8aa9-907e8cb00cd0.gif…]()
 
-This s fantastic approach t calibrate for 3D Touch
+This is fantastic approach t calibrate for 3D Touch
