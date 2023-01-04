@@ -51,4 +51,3 @@ The ball will move with force applied on the touch screen of Ios device
 
 This is fantastic approach t calibrate for 3D Touch
 
-
